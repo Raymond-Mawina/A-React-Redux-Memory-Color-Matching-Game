@@ -1,5 +1,3 @@
-# Memory game web app (222)
-
 ## This is what my project is supposed to look like on a mobile device.
 
 <div align="center">
@@ -15,5 +13,3 @@
 </div>
 
 ---
-
-[Click to view Project Instructions](http://syllabus.africacode.net/projects/memory-game/part-1/)
